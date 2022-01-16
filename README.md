@@ -1,3 +1,3 @@
 # TextnFrameRender
 
-The Text is the entered from text field of the Textbox from the inspector.
+The Text is rendered from the text field of the TextBox from the inspector.
