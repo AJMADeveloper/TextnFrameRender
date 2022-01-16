@@ -72,7 +72,7 @@ IEnumerator GetText (string url) {
          
          foreach(tLayer l in data.layers)
          {
-            uiNameText.text=l.type;
+            uiNameText.text="";
 
             foreach(place po in l.placement)
             {
